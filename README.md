@@ -54,5 +54,5 @@ A modern, interactive, and dark-themed personal portfolio website designed for a
 ## 📬 Contact
 
 **Kalaiarasan G**
-*   **LinkedIn:** [linkedin.com/in/kalaiarasan-g-603160255](https://www.linkedin.com/in/kalaiarasan-g-603160255)
+*   **LinkedIn:** [linkedin.com/in/kalaiarasan2448](https://www.linkedin.com/in/kalaiarasan2448)
 *   **Email:** [kalaiarasan2448@gmail.com](mailto:kalaiarasan2448@gmail.com)
