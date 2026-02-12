@@ -3,7 +3,8 @@
 A modern, interactive, and dark-themed personal portfolio website designed for a Data Scientist and Machine Learning Engineer. This project showcases my skills, projects, and professional background with a high-tech aesthetic.
 
 ## 🚀 Live Demo
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Portfolio-brightgreen?style=for-the-badge&logo=github)](https://kalaiarasan2448.github.io/Portfolio/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Portfolio-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio-five-jade-78.vercel.app/)
+
 
 ## ✨ Key Features
 
